@@ -191,20 +191,16 @@ This technology can be useful in environments where GNSS signals are weak or una
 
 ## 🔮 Future Scope
 
-* Real-time smartphone implementation
-* Integration with Flutter/Android
-* Real-time IMU sensor streaming
-* GPS + IMU sensor fusion
-* Kalman/Extended Kalman Filter integration
+* Real-time IMU sensor streaming and processing
+* Advanced GPS + IMU sensor fusion
+* Kalman / Extended Kalman Filter integration
 * Improved position and trajectory estimation
-* Offline map integration
-* Real-time navigation visualization
-* Optimization for edge/mobile deployment
+* Improved model accuracy through advanced feature engineering
+* Support for additional smartphone sensors
+* Offline map integration and enhanced route visualization
+* Real-time navigation performance optimization
+* Edge AI optimization for efficient on-device inference
+* Robustness testing across different environments and device types
 
----
 
-## 👨‍💻 Project
 
-Developed as an **AI/ML-based solution for seamless navigation during GNSS outages**.
-
-> **Goal:** Keep navigation moving even when GPS/GNSS signals disappear.
