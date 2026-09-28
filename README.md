@@ -119,7 +119,7 @@ dead-reckoning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/dead-reckoning.git
+git clone https://github.com/karanjotsingh16/Dead-Reckoning-Navigation-System.git
 cd dead-reckoning
 ```
 
